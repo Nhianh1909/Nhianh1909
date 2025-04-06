@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**Nhianh1909/Nhianh1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 🔭 I’m currently working on my personal project with a big aim to become the Software Engineer
 🌱 I’m currently learning at University of Transport Ho Chi Minh city
